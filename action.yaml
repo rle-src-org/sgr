@@ -1,0 +1,6 @@
+name: "SGR"
+runs:
+  using: "composite"
+  steps:
+    - run: echo "SGR"
+      shell: bash
